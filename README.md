@@ -23,4 +23,10 @@ Ans:- Nodejs mostly used for Api .
 Q- History 
 Ans:- First -release :- May 27,2009.
       2. Written in c,c++,javascript .
- 
+ Q.Difference between nodejs and javascript ?
+ Ans:- Javascript and nodejs code syntax is same .
+  2. if you know javascript you can easily understood node .
+  3.but both are not exactly same 
+  4.you can not connect the javascript with the database .
+  5.nodejs run on the server side 
+  6.javascript is run on the browser .
