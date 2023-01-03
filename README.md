@@ -30,4 +30,4 @@ Q.Difference between nodejs and javascript ?
   3.but both are not exactly same 
   4.you can not connect the javascript with the database .
   5.nodejs run on the server side 
-  6.javascript is run on the browser .
+  6.javascript is run on the browser.
