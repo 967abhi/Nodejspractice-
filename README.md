@@ -35,3 +35,10 @@ Q.Difference between nodejs and javascript ?
   4.you can not connect the javascript with the database .
   5.nodejs run on the server side 
   6.javascript is run on the browser.
+  Q.What developer make with nodejs 
+  Ans:- Developer make api with nodejs
+      2. so we can connect server with client.
+      3. Node can make Api for web ,Android and Ios etc.
+      4.user can also make website 
+ Q.NPM
+ ANS:- node pakage manager but when we go the node package manager its showing the random name as the developer make the changes there . 
