@@ -41,4 +41,4 @@ Q.Difference between nodejs and javascript ?
       3. Node can make Api for web ,Android and Ios etc.
       4.user can also make website 
  Q.NPM
- ANS:- node pakage manager but when we go the node package manager its showing the random name as the developer make the changes there . 
+ ANS:- node pakage manager but when we go the node package manager its showing the random name as the developer make the changes there .  learn abouth the nongodb 
